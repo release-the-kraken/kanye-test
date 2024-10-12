@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: kanye
+#logging:
+#  level:
+#    org:
+#      springframework: DEBUG
+server:
+  port: 8080
